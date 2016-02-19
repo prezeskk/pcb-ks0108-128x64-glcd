@@ -28,3 +28,19 @@
 ### PCB Back ###
 
 ![PCB-Back.png](https://bytebucket.org/serisman/pcb-ks0108-128x64-glcd-backpack/raw/master/output/PCB-Back.png)
+
+### Soldered Front ###
+
+![Soldered-Front.jpg](https://bytebucket.org/serisman/pcb-ks0108-128x64-glcd-backpack/raw/master/doc/Soldered-Front.jpg)
+
+### Soldered Back ###
+
+![Soldered-Back.jpg](https://bytebucket.org/serisman/pcb-ks0108-128x64-glcd-backpack/raw/master/doc/Soldered-Back.jpg)
+
+### Working Front ###
+
+![Working-Front.jpg](https://bytebucket.org/serisman/pcb-ks0108-128x64-glcd-backpack/raw/master/doc/Working-Front.jpg)
+
+### Working Back ###
+
+![Working-Back.jpg](https://bytebucket.org/serisman/pcb-ks0108-128x64-glcd-backpack/raw/master/doc/Working-Back.jpg)
